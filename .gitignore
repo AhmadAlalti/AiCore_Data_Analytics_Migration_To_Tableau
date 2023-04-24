@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+test.ipynb
+test.py
+creds.env
+data-analytics-files
+combined_data.csv
